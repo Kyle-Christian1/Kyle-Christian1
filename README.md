@@ -8,7 +8,7 @@
   - [Java with SQL interfacing](https://github.com/Kyle-Christian1/Scheduler)
   - [Java database](https://github.com/Kyle-Christian1/Inventory-System)
 
-- <b>Python (Jupyter Notebook, PyCharm)</b>
+- <b>Python (Jupyter Notebook, PyCharm, scikit-learn)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Kyle-Christian1/Delivery-System)
   - [Salary Prediction (Machine Learning Algorithm)](https://github.com/Kyle-Christian1/Salary-Prediction/blob/main/capstone.ipynb)
 
