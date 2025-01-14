@@ -12,6 +12,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Kyle-Christian1/Delivery-System)
   - [Salary Prediction (Machine Learning Algorithm)](https://github.com/Kyle-Christian1/Salary-Prediction/blob/main/capstone.ipynb)
 
+<h2>Web Development:</h2>
+- [Blog](https://github.com/Kyle-Christian1/Blah-g)
+
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="KyleChristian1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 https://linkedin.com/in/kylechristian1
