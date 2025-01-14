@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://github.com/tweaksneak">Programmer</a> and <a href="https://www.linkedin.com/in/kylechristian1/">Cybersecurity Professional</a>
+<h1>Hi, I'm Kyle! <br/><a href="https://github.com/kyle-christian1">Programmer</a> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
