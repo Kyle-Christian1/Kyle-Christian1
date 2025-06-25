@@ -13,7 +13,8 @@
   - [Salary Prediction (Machine Learning Algorithm)](https://github.com/Kyle-Christian1/Salary-Prediction/blob/main/capstone.ipynb)
 
 <h2>Web Development:</h2>
--  <a href="https://github.com/Kyle-Christian1/Blah-g">Blah-g (blog)</a>
+-  <a href="https://theplaylandpals.com">The Playland Pals (client website)</a>
+-  <a href="https://kfwebworks.com">KF Webworks (personal website)</a>
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="KyleChristian1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
