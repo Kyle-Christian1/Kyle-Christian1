@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://github.com/kyle-christian1">Programmer</a> 
+<h1>Hi, I'm Kyle! <br/><a href="https://github.com/kyle-christian1">Tech Enthusiast</a> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
